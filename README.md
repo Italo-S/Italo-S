@@ -13,11 +13,11 @@ Bem-vindo(a) ao perfil do Italo-S
  
  <br>
  
-  ### Pra conteúdo sobre programação me segue a gente nas redes abaixo!
+  
  
 <div>
   
  
-  ![Animação de cobra](https://github.com/Italo-S/Italo-S/blob/output/github-contribution-grid-snake.svg)
+  
 
 </div>
